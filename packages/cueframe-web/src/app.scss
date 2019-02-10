@@ -1,0 +1,10 @@
+$roboto-font-path: "~mdbreact/dist/font/roboto/";
+$image-path: "~mdbreact/dist/img/";
+
+@import "~@fortawesome/fontawesome-free/css/all.min.css";
+@import '~bootstrap-css-only/css/bootstrap.min.css'; 
+@import '~mdbreact/dist/scss/mdb.scss';
+
+html, body, #root {
+  height: 100%;
+}

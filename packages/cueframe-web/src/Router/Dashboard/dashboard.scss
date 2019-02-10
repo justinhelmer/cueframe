@@ -1,0 +1,15 @@
+@import '~mdbreact/dist/scss/core/colors';
+
+.dropzone {
+  border: 8px dashed $grey-lighten-2;
+  height: 300px;
+  cursor: pointer;
+
+  &.active {
+    background: $grey-lighten-4;
+  }
+}
+
+.file-card {
+  height: 220px;
+}
