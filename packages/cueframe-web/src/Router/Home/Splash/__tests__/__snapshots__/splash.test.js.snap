@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Splash/> Snapshot renders correctly 1`] = `
+<div
+  className="view h-100"
+  onMouseDown={[Function]}
+  onTouchStart={[Function]}
+  style={
+    Object {
+      "backgroundImage": "url(\\"bg.jpg\\")",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "no-repeat",
+      "backgroundSize": "cover",
+      "height": "100vh",
+    }
+  }
+>
+  <div
+    className="mask rgba-black-strong flex-center flex-column text-white text-center"
+  >
+    <h1
+      className="display-4 mx-4"
+    >
+      Preserving memories with the power of speech.
+    </h1>
+  </div>
+</div>
+`;

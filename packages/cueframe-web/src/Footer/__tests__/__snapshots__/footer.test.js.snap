@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Footer/> Snapshot renders correctly 1`] = `
+<div
+  className="text-center py-5"
+  id="footer"
+>
+  Copyright 2019
+</div>
+`;
